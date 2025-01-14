@@ -3,3 +3,4 @@ snowflake-snowpark-python
 # pip install --upgrade pip
 streamlit
 requests
+pandas
