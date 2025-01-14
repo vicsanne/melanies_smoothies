@@ -1,5 +1,6 @@
 # requirements.txt
 snowflake-snowpark-python
+pip install streamlit --upgrade pip
 streamlit
 requests
 name: app_environment
