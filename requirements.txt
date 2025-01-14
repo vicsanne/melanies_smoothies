@@ -3,7 +3,7 @@ snowflake-snowpark-python
 # pip install --upgrade pip
 streamlit
 requests
-name: app_environment
+# name: app_environment
 channels:
   - snowflake
 dependencies:
